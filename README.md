@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vasil !</h1>
 <h3 align="center">Ambitioned, Student C# Developer !</h3>
 
-- 🌱 I’m currently learning **C# Fundamentals**
+- 🌱 I’m currently learning **C# Advanced**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
