@@ -1,14 +1,29 @@
-<h1 align="center">Hi 👋, I'm Vasil !</h1>
-<h3 align="center">Ambitioned, Student C# Developer !</h3>
+# 👋 Hi there! I'm Vasil  
 
-- 🌱 I’m currently learning **C# Advanced**
+![Profile Views](https://komarev.com/ghpvc/?username=vaccetoo&label=Profile+Views&color=blue&style=flat)  
+![Followers](https://img.shields.io/github/followers/vaccetoo?style=flat&label=Followers)  
+![Stars](https://img.shields.io/github/stars/vaccetoo?style=flat&label=Stars)  
 
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://instagram.com/vasildelchevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vasildelchevv" height="30" width="40" /></a>
-</p>
+## 🚀 About Me
+- 🎓 Currently learning **C# Web Development**  
+- 🏗️ Experienced with **C#, MS SQL, ASP.NET MVC, HTML & CSS**  
+- 🌍 Passionate about **backend development and databases**  
+- 🎯 Looking to collaborate on **C# projects and web applications**  
 
-<h4 align="left">Languages and Tools:</h4>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack:
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MS SQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaccetoo&show_icons=true&locale=en&layout=compact" alt="vaccetoo" /></p>
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaccetoo&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaccetoo&layout=compact&theme=dark)
+
+## 📫 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasil-delchev-4021272b3)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaccetoo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasildelchev97@gmail.com)
+
+---
